@@ -1,0 +1,9 @@
+*.onnx
+*.pth
+*.ckpt
+*.h5
+*.pb
+__pycache__/
+*.pyc
+.DS_Store
+/workspace/
